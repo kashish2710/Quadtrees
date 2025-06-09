@@ -1,4 +1,4 @@
-# 🌳 Quadtree Visualization in C++
+#  Quadtree Visualization in C++
 
 Efficient spatial partitioning using the **Quadtree** data structure, implemented in **C++**. This project supports insertion, deletion (with conditions), and recursive traversal, making it perfect for use cases like:
 
@@ -17,6 +17,6 @@ Example structure:
 
         Root
      /  |  |  \
-   NW  NE SW  SE
+    NW  NE SW  SE
 
 
