@@ -18,6 +18,8 @@ Example structure:
         Root
      /  |  |  \
     NW  NE SW  SE
+
+    # Directories
     quadtree-visualization-cpp/
     │
     ├── src/
