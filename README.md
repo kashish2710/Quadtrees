@@ -18,5 +18,15 @@ Example structure:
         Root
      /  |  |  \
     NW  NE SW  SE
-
+    quadtree-visualization-cpp/
+    │
+    ├── src/
+    │   ├── Insert.cpp
+    │   ├── Delete.cpp
+    │   ├── Construct.cpp
+    │
+    ├── assets/
+    │   └── images
+    │
+    ├── README.md
 
