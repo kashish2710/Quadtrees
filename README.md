@@ -61,7 +61,6 @@ Edit
 
 ### 1. **Compile using g++**
 
-```bash
 g++ main.cpp -o quadtree
 If you're using separate files:
 
@@ -107,7 +106,7 @@ g++ compiler
 
 Command-line terminal (Linux, macOS, or Windows with WSL/PowerShell)
 
- Notes
+# Notes
 Only leaf nodes can be deleted.
 
 pathtoroot will show the node hierarchy using assigned IDs.
