@@ -35,7 +35,7 @@ Example structure:
 
 This is a C++ implementation of an **MX-Quadtree**, which subdivides a given 2D space into smaller uniform regions recursively. The project supports dynamic insertion, search, deletion, and root-to-leaf path tracing of points within the subdivided regions.
 
-## 🔧 Features
+##  Features
 
 - Recursive subdivision using scale factor
 - Insert and locate points inside leaf nodes
@@ -48,9 +48,9 @@ This is a C++ implementation of an **MX-Quadtree**, which subdivides a given 2D 
 
 ## 📁 Project Structure
 
-├── Quadtree.h # Header file containing class definition and functions
-├── Quadtree.cpp # Contains helper function logic (optional, if split)
-├── main.cpp # CLI runner file with int main()
+        ├── Quadtree.h # Header file containing class definition and functions
+        ├── Quadtree.cpp # Contains helper function logic (optional, if split)
+        ├── main.cpp # CLI runner file with int main()
 
 yaml
 Copy
@@ -70,7 +70,7 @@ Edit
 g++ main.cpp Quadtree.cpp -o quadtree
 This will create an executable named quadtree.
 
-▶ How to Use
+## How to Use
 Subdivide a region
 
 ./quadtree subdivide 1000 1000 2 2 2
